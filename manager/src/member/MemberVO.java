@@ -2,5 +2,5 @@ package member;
 
 public class MemberVO {
 	private String userid;
-	private String pass;
+	private String password;
 }
